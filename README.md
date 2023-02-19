@@ -8,6 +8,8 @@
 
 ---
 
+Forked from bastard keyboards dilemma
+
 The Dilemma is a vertical stagger low-profile keyboard with mods.
 
 ![](pics/1g.jpg)
